@@ -3,8 +3,11 @@ BezierToy
 
 BezierToy is visual tool showing different methods for Bezier curve degree reduction.
 It was created as a home assignment during the Numerical Analysis 2 course held at
-the Univerity of Wrocław in 2012/13. The repository contains a Visual Studio solution
-created using the 2012 edition of VS.
+the Univerity of Wrocław in 2012/13.
+
+The repository contains a Visual Studio solution created using the 2012 edition of VS.
+There is also a Windows executable available under [releases](https://github.com/mkacz91/BezierToy/releases)
+, but I can't guarantee it will run.
 
 Exporting the curves to and from XML files is supported.
 
