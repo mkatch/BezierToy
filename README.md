@@ -6,8 +6,7 @@ It was created as a home assignment during the Numerical Analysis 2 course held 
 the Univerity of Wrocław in 2012/13.
 
 The repository contains a Visual Studio solution created using the 2012 edition of VS.
-There is also a Windows executable available under [releases](https://github.com/mkacz91/BezierToy/releases)
-, but I can't guarantee it will run.
+There is also a Windows executable available under [releases](https://github.com/mkacz91/BezierToy/releases).
 
 Exporting the curves to and from XML files is supported.
 
