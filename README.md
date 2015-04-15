@@ -8,7 +8,8 @@ the Univerity of Wrocław in 2012/13.
 The repository contains a Visual Studio solution created using the 2012 edition of VS.
 There is also a Windows executable available under [releases](https://github.com/mkacz91/BezierToy/releases).
 
-Exporting the curves to and from XML files is supported.
+Exporting the curves to and from XML files is supported as well as exporting to JPEG, PNG
+and BMP image files.
 
 Problem
 -------
